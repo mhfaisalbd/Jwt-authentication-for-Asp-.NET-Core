@@ -3,7 +3,7 @@
 ## How to
 
 * Clone or download this project.
-* Before run update the database with letest migration included inside the project.
+* Before running this project, please update the database with letest migration included inside the project.
 * run this project on your local machine.
 * Register a new user from here ```http:localhost:{port}/Identity/Account/```.
 * Logout yourself from the application.
