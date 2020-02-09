@@ -22,4 +22,6 @@
 ```json
 {"JSON":["Access","From","Authenticated"]}
 ```
+
 * If you haven't any experience of inspecting browser to handle requests, please use postman.
+* To customize the application inside, go appsettings.json and edit the configurations for issuer, audience and key.
